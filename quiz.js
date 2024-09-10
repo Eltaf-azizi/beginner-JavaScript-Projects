@@ -46,7 +46,30 @@ else{
 }
 
 
+const answer3 = ("What does PIN stands?");
+const correctAnswer3 = ("Personal Identification Number") ;
 
+if(answer3.toUpperCase() === correctAnswer3){
+    console.log("Hurray!, Your answer is correct!");
+    correctAnswers++;
+}
+
+else{
+    console.log("Your guessed it Wrong!");
+}
+
+
+const answer4 = ("What does YOLO stands?");
+const correctAnswer4= ("You Only Live Once") ;
+
+if(answer4.toUpperCase() === correctAnswer4){
+    console.log("Hurray!, Your answer is correct!");
+    correctAnswers++;
+}
+
+else{
+    console.log("Your guessed it Wrong!");
+}
 
 console.log("You got " , correctAnswers , " questions correct!");
 console.log("You score " , correctAnswers / totalQuestions * 100 , " percent!");
