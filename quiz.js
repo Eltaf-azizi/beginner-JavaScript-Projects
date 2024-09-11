@@ -71,5 +71,7 @@ else{
     console.log("Your guessed it Wrong!");
 }
 
+const percent = Math.rounf((correctAnswers / totalQuestions) * 100);
+
 console.log("You got " , correctAnswers , " questions correct!");
-console.log("You score " , correctAnswers / totalQuestions * 100 , " percent!");
+console.log("You score ", percent ," percent!");
