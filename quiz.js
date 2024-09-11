@@ -74,4 +74,4 @@ else{
 const percent = Math.rounf((correctAnswers / totalQuestions) * 100);
 
 console.log("You got " , correctAnswers , " questions correct!");
-console.log("You score ", percent ," percent!");
+console.log("You scored "+ percent.toString() +"%");
