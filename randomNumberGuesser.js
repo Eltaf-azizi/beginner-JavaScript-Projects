@@ -17,9 +17,9 @@ let guesses = 0;
         console.log("Your guess is too low.");
     }
 
-    else {
-        console.log("You guessed it!")
-        break;
-    }
+
+    console.log("You guessed it!")
+    break;
+
 }
 console.log("You guessed", guesses, " time")
