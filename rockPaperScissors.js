@@ -16,4 +16,15 @@ if(
 
 const choices = ["rock", "paper", "scissors"];
 const randomIndex = Math.round(Math.random() * 2);
-const computerChoice = choices[ransomIndex]; 
+const computerChoice = choices[randomIndex];
+
+if (computerChoice === playerChoice){
+    console.log("Draw!");
+    ties++;
+}
+else if((playerChoice === "paper" && computerChoice === "rock") ||
+        (playerChoice === "rock" && computerChoice === "scissors") ||
+        (playerChoice === "scissors" && computerChoice === "paper")
+){
+
+}
