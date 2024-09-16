@@ -1,8 +1,8 @@
 <h1 align="center">Simple JavaScript Projects</h1> 
 This repository contains a set of small JavaScript-only projects that I created to revise and strengthen my understanding of basic JavaScript concepts. These projects are straightforward and designed to focus purely on JavaScript functionality without the use of any libraries or frameworks.
 
-Projects
-1. Random Number Guesser
+# Projects
+### **1. Random Number Guesser**
 Description: A simple program where the user tries to guess a randomly generated number by the script.
 JavaScript Concepts:
 Math.random()
