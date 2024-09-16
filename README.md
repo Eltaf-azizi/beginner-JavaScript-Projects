@@ -5,8 +5,8 @@ This repository contains a set of small JavaScript-only projects that I created 
 ### **1. Random Number Guesser**
  - **Description:** A simple program where the user tries to guess a randomly generated number by the script.
  - **JavaScript Concepts:**<br>
-     - (`Math.random()`)<br>
-    - Conditional statements (`(if, else)`)
+     - `Math.random()`<br>
+    - Conditional statements `(if, else)`
 ### **2. Quiz Game**
  - **Description:** A basic multiple-choice quiz game where the user's score is tracked.
  - **JavaScript Concepts:**
@@ -16,10 +16,10 @@ This repository contains a set of small JavaScript-only projects that I created 
 ### **3. Choose Your Own Adventure**
  - **Description:** An interactive game where user choices determine the story's progression.
  - **JavaScript Concepts:**
-    - Conditional logic (`(if, else)`)
+    - Conditional logic `(if, else)`
     - Variables for tracking the user's choices
 ### **4. Rock-Paper-Scissors**
  - **Description:** The classic game of Rock-Paper-Scissors, where the player competes against the computer.
  - **JavaScript Concepts:**
-    - Random number generation (Math.random())
-    - Conditional logic (`(if, else, switch)`)
+    - Random number generation `Math.random()`
+    - Conditional logic `(if, else, switch)`
