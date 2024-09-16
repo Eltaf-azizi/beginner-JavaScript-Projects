@@ -7,18 +7,18 @@ Description: A simple program where the user tries to guess a randomly generated
 JavaScript Concepts:
 Math.random()
 Conditional statements (if, else)
-2. Quiz Game
+### **2. Quiz Game**
 Description: A basic multiple-choice quiz game where the user's score is tracked.
 JavaScript Concepts:
 Arrays for questions and answers
 Functions
 Basic logic
-3. Choose Your Own Adventure
+### **3. Choose Your Own Adventure**
 Description: An interactive game where user choices determine the story's progression.
 JavaScript Concepts:
 Conditional logic (if, else)
 Variables for tracking the user's choices
-4. Rock-Paper-Scissors
+### **4. Rock-Paper-Scissors**
 Description: The classic game of Rock-Paper-Scissors, where the player competes against the computer.
 JavaScript Concepts:
 Random number generation (Math.random())
