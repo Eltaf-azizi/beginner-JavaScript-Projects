@@ -31,4 +31,4 @@ These projects were created as part of my personal learning journey to revise ke
 1. Clone the repository:
 
        git clone https://github.com/yourusername/your-repo-name.git
-2. Open the respective .js file to view or edit the JavaScript code.
+2. Open the respective `.js` file to view or edit the JavaScript code.
