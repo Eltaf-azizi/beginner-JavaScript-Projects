@@ -33,5 +33,5 @@ These projects were created as part of my personal learning journey to revise ke
        git clone https://github.com/yourusername/your-repo-name.git
 2. Open the respective `.js` file to view or edit the JavaScript code.
 
-# Contribution
+# Contributing
 Contributions are **welcome!** If you have any ideas for new projects or improvements to existing ones, please feel free to fork the repository and submit a pull request.
