@@ -1,8 +1,8 @@
-<h1 align="center">Simple JavaScript Projects</h1> 
+<h3 align="center">Simple JavaScript Projects</h3> 
 This repository contains a set of small JavaScript-only projects that I created to revise and strengthen my understanding of basic JavaScript concepts. These projects are straightforward and designed to focus purely on JavaScript functionality without the use of any libraries or frameworks.
 
-# Projects
-### **1. Random Number Guesser**
+### Projects
+#### **1. Random Number Guesser**
  - **Description:** A simple program where the user tries to guess a randomly generated number by the script.
  - **JavaScript Concepts:**<br>
      - `Math.random()`<br>
@@ -13,18 +13,18 @@ This repository contains a set of small JavaScript-only projects that I created 
     - Arrays for questions and answers
     - Functions
     - Basic logic
-### **3. Choose Your Own Adventure**
+#### **3. Choose Your Own Adventure**
  - **Description:** An interactive game where user choices determine the story's progression.
  - **JavaScript Concepts:**
     - Conditional logic `(if, else)`
     - Variables for tracking the user's choices
-### **4. Rock-Paper-Scissors**
+#### **4. Rock-Paper-Scissors**
  - **Description:** The classic game of Rock-Paper-Scissors, where the player competes against the computer.
  - **JavaScript Concepts:**
     - Random number generation `Math.random()`
     - Conditional logic `(if, else, switch)`
 
-## Purpose
+### Purpose
 These projects were created as part of my personal learning journey to revise key JavaScript concepts and improve my coding skills.
 
 ## How to Run
